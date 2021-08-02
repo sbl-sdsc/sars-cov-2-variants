@@ -1,0 +1,10 @@
+name: sars-cov-2-variants
+
+channels:
+  - conda-forge
+
+dependencies:
+  - python
+  - jupyterlab
+  - pyarrow
+  - pandas
